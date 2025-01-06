@@ -1,0 +1,2 @@
+# CAMELS-Multifield-Dataset-Analysis-Cosmological-Parameters-Prediction
+This project analyzes a subset of the CAMELS Multifield Dataset (CMD) to predict cosmological parameters like Ωm and σ8. Using machine learning, it predicts these parameters from single and multiple astrophysical field maps. The project also explores generative algorithms to understand field relationships and parameter prediction.
